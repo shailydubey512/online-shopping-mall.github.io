@@ -1,0 +1,37 @@
+.head{
+
+    font-size: 20px;
+    background-color:rgb(21, 8, 192);
+    color:black;
+    height:35px;
+    text-align: center;
+    padding-top: 4px;
+    row-gap:10px;
+
+}
+
+
+.main a{
+    color: black;
+    padding: 4px;
+    margin: 2px;
+    border-radius: 8px;
+
+}
+.topbar{
+    font-size: 20px;
+    padding: 4px;
+    margin:2px;
+    background: black;
+}
+
+
+.cards{
+    text-align: center;
+    width: 70%;
+    height: 70%;
+    padding: 1px;
+    margin: 1px;
+    background: black;
+
+}
